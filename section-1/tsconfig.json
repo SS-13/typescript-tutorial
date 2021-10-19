@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "strict": true,
+    "noImplicitThis": true,
+    "strictNullChecks": true,
+    "lib": ["es6", "DOM"],
+    "target": "es6"
+  }
+}
