@@ -20,3 +20,8 @@ if (textEl) {
 const textEl1 = document.querySelector("input") as HTMLInputElement;
 const textEl2 = document.querySelector<HTMLInputElement>("input");
 console.log(textEl2!.value);
+
+
+// react
+// onClick(event: React.MouseEvent<HTMLButtonElement>):void;
+// React.ComponentPropsWithoutRef<"button">;
